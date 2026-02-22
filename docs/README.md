@@ -20,3 +20,5 @@ After each sprint, release, or significant milestone, teams run structured retro
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [Change Control Checklist](octoacme-change-control-checklist.md)
+- [Quality Gates Checklist](octoacme-quality-gates-checklist.md)
